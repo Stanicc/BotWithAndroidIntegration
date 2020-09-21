@@ -19,7 +19,7 @@ class Main {
         @JvmStatic fun main(args: Array<String>) {
             INSTANCE = Main()
 
-            JDABuilder.createDefault("NTU4NzIzMTgyMjUzNTcyMTA2.XJUtgw.eXMgzRyfiyH4OG1267bABNB30Ac")
+            JDABuilder.createDefault("TOKEN")
                 .setActivity(Activity.playing("MiriS!"))
                 .build()
                 .awaitReady().runCatching {
