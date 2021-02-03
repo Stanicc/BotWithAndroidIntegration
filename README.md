@@ -1,4 +1,4 @@
-<h1 align="center">MiriS</h1>
+<h1 align="center">Bot</h1>
 
 <p align="center">
     Still working...<br>
